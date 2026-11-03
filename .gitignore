@@ -13,9 +13,3 @@ __pycache__/
 # Archivos del sistema operativo
 .DS_Store
 Thumbs.db
-
-# Datos o credenciales privadas (opcional, según tu proyecto)
-config.json
-*.env
-models/*.pkl
-*.pkl
