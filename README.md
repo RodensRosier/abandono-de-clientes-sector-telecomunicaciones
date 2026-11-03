@@ -66,12 +66,6 @@ abandono-de-clientes-sector-telecomunicaciones/
 │   ├── raw/                  # cell2celltrain.csv (dataset original)
 │   └── processed/            # cell2cell_churn_clean.csv (dataset limpio)
 │
-├── docs/
-│   ├── presentacion.pdf      # Presentación para comunicar los hallazgos durante el análisis de datos
-│
-├── models/
-│   └── modelo_churn_random_forest.pkl      # Modelo final entrenado y exportado
-│
 ├── notebooks/
 │   ├── 01_eda_and_cleaning_3.ipynb         # Auditoría, limpieza y EDA
 │   └── 02_feature_engineering_3.ipynb      # Ingeniería de características, entrenamiento/pruebas y Machine Learning
